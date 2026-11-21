@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProofFlow AI
 
 > An autonomous agent that investigates invoices against purchase orders and delivery receipts, finds discrepancies, looks for the evidence that explains them, and reports what is verified and what is not.
@@ -53,3 +54,6 @@ docker compose up -d db                               # optional: Postgres
 
 ## Data
 Only synthetic documents are used. No real financial data, no API keys in the repo.
+=======
+# proofflow-ai
+>>>>>>> c7a23b228d355c318c3402bae28fab9fd08bd4d1
