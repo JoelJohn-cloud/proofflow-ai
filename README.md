@@ -5,6 +5,8 @@
 
 Built for **Homingo Hack Days 2026** (build phase: 21 Nov – 6 Dec 2026), AI Agents track.
 
+**Problem statement:** A2, The full-stack AI firm. ProofFlow is the first service of an agent-run accounts-payable audit firm: it investigates invoice discrepancies with evidence, and people only decide the flagged cases.
+
 ProofFlow reports discrepancies and evidence. It never says "fraud" and never approves a payment; a human reviews every finding.
 
 ## How it works
