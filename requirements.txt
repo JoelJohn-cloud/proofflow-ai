@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+httpx
+pdfplumber
+PyMuPDF
+langgraph
+psycopg[binary]
+pytest
